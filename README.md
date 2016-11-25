@@ -1,6 +1,4 @@
-# vue-components
-Simple and useful vue-components, based on bootstrap.
-
-## Page
-Page break component.Just looks like:
+## PageBreak
+PageBreak is an UI component to separate a long list into multiple pages.Based on vue 2.0 and bootstrap.
+Just looks like:
 ![Page](https://github.com/akumatus/vue-components/blob/master/page/page.png)
